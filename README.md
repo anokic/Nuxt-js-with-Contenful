@@ -1,8 +1,10 @@
 # Trying out Nuxt.js with Contentful
 
-Recently i have been learning **Vue.js** and components was a great thing for reusable code for other projects.
+Recently i have been learning **Vue.js** and components was a great thing for reusable code for other projects. It felt so right
 
 Next step was **Nuxt.js** with **Contenful**.
+
+I have used **Bulma** a **CSS** framework for the first time.
 
 ## Build Setup
 
