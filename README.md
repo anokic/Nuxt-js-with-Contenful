@@ -1,6 +1,8 @@
-# trying-out-nuxt
+# Trying out Nuxt.js with Contentful
 
-> My astonishing Nuxt.js project
+Recently i have been learning **Vue.js** and components was a great thing for reusable code for other projects.
+
+Next step was **Nuxt.js** with **Contenful**.
 
 ## Build Setup
 
